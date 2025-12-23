@@ -8,19 +8,19 @@ Desenvolvedor Full Stack Jr. focado em React. Em transição de carreira aos 38 
 - Ferramentas: Git, VS Code
 
 ## 📂 Projetos em Destaque
-- [Projeto 1](link): Contruindo, chegando lá :D.
+- [Projeto 1](link): Construindo, chegando lá :D.
 - [Projeto 2](link): Construindo também !! .
 
 ## 📈 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4ndreLuis&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ## 💻 Linguagens Mais Usadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?4ndreLuis=4ndreLuis&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ## 🔥 Streak de Contribuições
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4ndreLuis&theme=dark&hide_border=true)
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?4ndreLuis=https://github.com/4ndreLuis&theme=dark)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=4ndreLuis&theme=dark)
 
 ## 🌐 Redes Sociais e Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/4ndredev/)  
