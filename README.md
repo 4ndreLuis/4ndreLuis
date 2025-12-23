@@ -1,10 +1,11 @@
 # 👋 Olá, seja bem-vindo a trajetória de quem está começando do zero absoluto \o/
+Vryxos Tech (saiu essa palavra do nada em uma brincadeira com meu dog é um possível nome de empresa pessoal rs)
 
 💻 **Desenvolvedor em formação Full Stack Jr.**  
 ⚛️ Foco em **React** | ♿ **Acessibilidade**
 
 🔄 Em transição de carreira aos **38 anos**  
-📚 Estudante autodidata, disciplinado e consistente  
+📚 Estudante autodidata, disciplinado e consistente.  
 
 ⏱️ Estudo diário com **Técnica Pomodoro**  
 ➡️ 6 ciclos de **45 min focado + 15 min descanso**, sem falhar até o momento.
@@ -39,7 +40,13 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&locale=pt&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun)](https://git.io/streak-stats)
+## 🔥 Streak de Contribuições
+
+<p align="center">
+<a href="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true" target="_blank">
+👉 Clique aqui para ver meu streak de contribuições
+</a>
+</p>
 
 ---
 
