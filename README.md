@@ -32,7 +32,7 @@
 </div>
 ---
 ## 🔥 Streak de Contribuições
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4ndreLuis&theme=dark&hide_border=true)
+<img scr=//github-readme-streak-stats.herokuapp.com/?username=4ndreLuis&theme=dark&hide_border=true/>
 
 ## 🛠️ Tecnologias
 
