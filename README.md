@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome]! 👋
+# Olá, sou [4ndreMendes]! 👋
 
 Desenvolvedor Full Stack Jr. focado em React. Em transição de carreira aos 38 anos, estudo autodidaticamente há 23 dias com HTML, CSS e JS intermediário.
 
