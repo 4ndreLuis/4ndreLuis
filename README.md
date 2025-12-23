@@ -1,23 +1,31 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-💻 **Desenvolvedor em formação Full Stack Jr.** | ⚛️ Foco em **React** | ♿ Acessibilidade  
-🔄 Em transição de carreira aos **38 anos** | Estudante autodidata e disciplinado.
-Técnica Pomodoro todos os dias sem falhar até o momento de 6 ciclos de 45 min focado e 15min de descanso.
+💻 **Desenvolvedor em formação Full Stack Jr.**  
+⚛️ Foco em **React** | ♿ **Acessibilidade**
+
+🔄 Em transição de carreira aos **38 anos**  
+📚 Estudante autodidata, disciplinado e consistente  
+
+⏱️ Estudo diário com **Técnica Pomodoro**  
+➡️ 6 ciclos de **45 min focado + 15 min descanso**, sem falhar até o momento
+
 ---
 
 ## 🚀 Stack & Habilidades
 
 | Frontend | Backend | Ferramentas |
 |---------|--------|-------------|
-| React, JavaScript, HTML, CSS, Semântica com Acessibilidade | Node.js *(em formação)*, PostgreSQL | Git, GitHub, VS Code |
+| React, JavaScript, HTML, CSS<br/>Semântica e Acessibilidade | Node.js *(em formação)*<br/>PostgreSQL | Git, GitHub, VS Code |
+
 ---
 
 ## 📂 Projetos em Destaque
 
 - 🚧 **[Projeto 1](link)** — Construindo, chegando lá 😄  
-- 🚧 **[Projeto 2](link)** — Em desenvolvimento contínuo..  
+- 🚧 **[Projeto 2](link)** — Em desenvolvimento contínuo  
 
-> 📌 Em breve: projetos completos com foco em **React + boas práticas + acessibilidade**
+> 📌 Em breve: projetos completos com foco em **React**, **boas práticas** e **acessibilidade**
+
 ---
 
 ## 📊 GitHub em Números
