@@ -8,7 +8,7 @@
 ## 🚀 Stack & Habilidades
 
 | Frontend | Backend | Ferramentas |
-|--------|--------|-------------|
+|---------|--------|-------------|
 | React, JavaScript, HTML, CSS | Node.js *(em aprendizado)*, PostgreSQL | Git, GitHub, VS Code |
 
 ---
@@ -30,9 +30,18 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 
 </div>
+
 ---
+
 ## 🔥 Streak de Contribuições
-<img scr=//github-readme-streak-stats.herokuapp.com/?username=4ndreLuis&theme=dark&hide_border=true/>
+
+<p align="center">
+<a href="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true" target="_blank">
+👉 Clique aqui para ver meu streak de contribuições
+</a>
+</p>
+
+---
 
 ## 🛠️ Tecnologias
 
