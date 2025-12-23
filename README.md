@@ -1,4 +1,4 @@
-# Olá, sou [4ndreMendes]! 👋
+# Sejam bem-vindos, siou o [André Mendes]! 👋, eu poderia contar uma trajetória... vou deixar mais para frente..
 
 Desenvolvedor Full Stack Jr. focado em React. Em transição de carreira aos 38 anos, estudo autodidaticamente há 23 dias com HTML, CSS e JS intermediário.
 
@@ -12,17 +12,19 @@ Desenvolvedor Full Stack Jr. focado em React. Em transição de carreira aos 38 
 - [Projeto 2](link): Descrição.
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4ndredev21&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ## 💻 Linguagens Mais Usadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndredev21&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ## 🔥 Streak de Contribuições
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4ndredev21&theme=dark&hide_border=true)
+
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/4ndreMendes&theme=dark)
 
 ## 🌐 Redes Sociais e Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/seu-perfil)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/4ndredev/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:4ndredev21@gmail.com)
 
 ## 🛠️ Tecnologias
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
