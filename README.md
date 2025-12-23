@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img height="150" src="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true&cache_seconds=86400" />
 
 </div>
 
