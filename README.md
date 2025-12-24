@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo a trajetória de quem está começando do zero absoluto \o/
+# 👋 Olá, seja bem-vindo a trajetória de quem começou do zero absoluto aos 38 \o/
 Vryxos Tech (saiu essa palavra do nada em uma brincadeira com meu dog é um possível nome de empresa pessoal rs)
 
 💻 **Desenvolvedor em formação Full Stack Jr.**  
