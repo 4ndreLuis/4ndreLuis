@@ -1,45 +1,46 @@
-# 👋 Olá, seja bem-vindo a trajetória de quem começou do zero absoluto aos 38 ao caminho do "SIM" tão sonhado \o/
+# 👋 Olá! Bem-vindo à trajetória de quem começou do zero absoluto aos 38 anos — e decidiu seguir até o “SIM” acontecer.
 
-Vryxos Tech (saiu essa palavra do nada em uma brincadeira com meu dog é um possível nome de empresa pessoal rs)
+Sou um desenvolvedor em formação, construindo minha base técnica com calma, consistência e foco em qualidade.
 
-💻 **Desenvolvedor em formação React | Node.js | Next.js | postgreSQL **  
-⚛️ Foco em **React** | ♿ **Acessibilidade**
+**Vryxos Tech** é o nome do meu projeto pessoal — nasceu de uma brincadeira, mas representa minha identidade como dev: aprendizado contínuo e evolução real.
+
+💻 **Desenvolvedor em formação | React • Node.js • Next.js • PostgreSQL**  
+⚛️ Foco em **React** | ♿ **Acessibilidade (a11y)**
 
 🔄 Em transição de carreira aos **38 anos**  
-📚 Estudante autodidata, disciplinado e consistente.
+📚 Autodidata, disciplinado e consistente
 
 ⏱️ Estudo diário com **Técnica Pomodoro**  
-➡️ 6 ciclos de **45 min focado + 15 min descanso**, sem falhar até o momento.
+➡️ 6 ciclos de **45min foco + 15min descanso**, mantidos com constância
 
 ---
 
 ## 🚀 Stack & Habilidades
 
-| Frontend                                                    | Backend                                | Ferramentas          |
-| ----------------------------------------------------------- | -------------------------------------- | -------------------- |
-| React, JavaScript, HTML, CSS<br/>Semântica e Acessibilidade | Node.js _(em formação)_<br/>PostgreSQL | Git, GitHub, VS Code |
+| Frontend                                  | Backend                                  | Ferramentas            |
+|-------------------------------------------|-------------------------------------------|------------------------|
+| React, JavaScript, HTML, CSS               | Node.js _(em evolução)_                   | Git, GitHub, VS Code   |
+| HTML Semântico & Acessibilidade (a11y)     | PostgreSQL                                |                        |
 
 ---
 
 ## 📂 Projetos em Destaque
 
-- 🚧 **[Projeto 1](link)** — Construindo, chegando lá 😄
-- 🚧 **[Projeto 2](link)** — Em desenvolvimento contínuo
+- 🚧 **[Projeto 1](link)**  
+  Aplicação front-end focada em fundamentos, organização de código e semântica.
 
-> 📌 Em breve: projetos completos com foco em **React**, **boas práticas** e **acessibilidade**
+- 🚧 **[Projeto 2](link)**  
+  Projeto em evolução contínua, aplicando React, boas práticas e acessibilidade.
 
----
-
-# 📊 Alguns números =):
-![](https://github-readme-stats.vercel.app/api?username=4ndreLuis&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=4ndreLuis&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+> 📌 Em breve: projetos finalizados com foco em **React**, **boas práticas** e **experiência do usuário acessível**.
 
 ---
 
-### 🔝 Contribuições:
-![](https://github-contributor-stats.vercel.app/api?username=4ndreLuis&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 📊 Atividade no GitHub
 
+![](https://github-readme-stats.vercel.app/api?username=4ndreLuis&theme=radical&hide_border=false&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=4ndreLuis&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&theme=radical&layout=compact)
 
 ---
 
@@ -60,8 +61,8 @@ Vryxos Tech (saiu essa palavra do nada em uma brincadeira com meu dog é um poss
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/4ndredev/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:4ndredev21@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4ndre.luis) 
+[LinkedIn](https://www.linkedin.com/in/4ndredev/) •
+[Email](mailto:4ndredev21@gmail.com) •
+[Instagram](https://instagram.com/4ndre.luis)
 
 </div>
