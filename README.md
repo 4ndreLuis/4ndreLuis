@@ -37,19 +37,7 @@ Vryxos Tech (saiu essa palavra do nada em uma brincadeira com meu dog é um poss
 
 ---
 
-## 🔥 Streak de Contribuições
-
-<p align="center">
-<a href="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true" target="_blank">
-👉 Clique aqui para ver meu streak de contribuições
-</a>
-</p>
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=4ndreLuis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
+### 🔝 Contribuições:
 ![](https://github-contributor-stats.vercel.app/api?username=4ndreLuis&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
