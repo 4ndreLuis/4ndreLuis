@@ -1,8 +1,10 @@
-# 👋 Olá, sou o André Luis
+# E ae! , sou o André Luis \o/
 
-**Desenvolvedor Frontend focado em Acessibilidade e Performance**
+**Desenvolvedor Frontend focado em Acessibilidade do Absoluto ZERO aos 38 anos**
 
-Aos 38 anos, decidi converter anos de experiência de vida em linhas de código. Minha jornada no "zero absoluto" é movida por uma disciplina inegociável: **estudo diário, semântica pura e a missão de construir uma web onde ninguém seja deixado para trás.**
+Aos 38 anos, decidi converter anos de experiência de vida em linhas de código e graduando Análise e Desenvolvimento de Sistemas(ADS). 
+Minha jornada no "zero absoluto": **estudo diário, semântica pura e web para todos,
+trabalhei anos em lan houses da vida (quem lembra? rs) e pude conhecer as dificuldades e necessidades de muitas pessoas enquanto navegavam pela web.**
 
 ---
 
@@ -10,8 +12,9 @@ Aos 38 anos, decidi converter anos de experiência de vida em linhas de código.
 
 - ♿ **Especialista em Acessibilidade (a11y):** Defensor do HTML semântico, conformidade WCAG e navegação otimizada para leitores de tela.
 - ⚛️ **Ecossistema:** Especializando em React, Next.js e integração com Node.js/PostgreSQL.
-- 🔄 **Maturidade e Transição:** Minha transição de carreira aos 38 anos me trouxe uma visão analítica, resiliência e foco absoluto em entregas de qualidade.
-- ⏱️ **Metodologia:** 100% comprometido com a consistência. Utilizo a técnica Pomodoro (6 ciclos de 45/15 diários) para garantir evolução técnica contínua.
+- 🔄 **Maturidade e Transição:** Minha transição de carreira aos 38 anos me trouxe uma visão analítica, resiliência e foco absoluto em entregas de qualidade ao nível atual (quase um juninho).
+- ⏱️ **Metodologia:** 100% comprometido com a consistência. Utilizo a técnica Pomodoro (6 ciclos de 45/15 diários) para garantir evolução técnica contínua sem falhar até o momento.
+
 
 ---
 
