@@ -4,7 +4,7 @@
 
 Aos 38 anos, decidi converter anos de experiência de vida em linhas de código e graduando Análise e Desenvolvimento de Sistemas(ADS). 
 Minha jornada no "zero absoluto": **estudo diário, semântica pura e web para todos,
-trabalhei anos em lan houses da vida (quem lembra? rs) e pude conhecer as dificuldades e necessidades de muitas pessoas enquanto navegavam pela web.**
+trabalhei anos em lan houses da vida (quem lembra? rs) e conheci as dificuldades e necessidades de muitas pessoas enquanto navegavam pela web.**
 
 ---
 
