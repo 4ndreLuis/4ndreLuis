@@ -30,14 +30,10 @@ Vryxos Tech (saiu essa palavra do nada em uma brincadeira com meu dog é um poss
 
 ---
 
-## 📊 GitHub em Números
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=4ndreLuis&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=4ndreLuis&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=4ndreLuis&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
