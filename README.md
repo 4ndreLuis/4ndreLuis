@@ -70,5 +70,6 @@ Vryxos Tech (saiu essa palavra do nada em uma brincadeira com meu dog é um poss
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/4ndredev/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:4ndredev21@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4ndre.luis) 
 
 </div>
