@@ -1,24 +1,74 @@
-# 💫 About Me:
-🔭 Atualmente trabalhando em:<br>Projetos práticos de Front-end e Full Stack, com foco em React, boas práticas e código manutenível.<br><br>👯 Buscando colaborar em:<br>Projetos open source, aplicações front-end, melhorias de UI/UX e acessibilidade.<br><br>🤝 Buscando ajuda com:<br>Arquitetura front-end, padrões de projeto e feedback de código para evoluir como desenvolvedor.<br><br>🌱 Atualmente aprendendo:<br>JavaScript moderno, React, acessibilidade (a11y), HTML semântico e fundamentos de Full Stack.<br><br>💬 Pergunte-me sobre:<br>Front-end, React, HTML semântico, acessibilidade, organização de estudos e aprendizado consistente.<br><br>⚡ Curiosidade:<br>Acredito que código simples, legível e previsível envelhece melhor do que soluções “espertas”.<br>
+# 👋 Olá, seja bem-vindo a trajetória de quem começou do zero absoluto aos 38 ao caminho do "SIM" tão sonhado \o/
 
+Vryxos Tech (saiu essa palavra do nada em uma brincadeira com meu dog é um possível nome de empresa pessoal rs)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/andre.dev.felippe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4ndre.luis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/4ndreluis/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:4ndredev21@gmail.com) 
+💻 **Desenvolvedor em formação React | Node.js | Next.js | postgreSQL **  
+⚛️ Foco em **React** | ♿ **Acessibilidade**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=4ndreLuis&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=4ndreLuis&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🔄 Em transição de carreira aos **38 anos**  
+📚 Estudante autodidata, disciplinado e consistente.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=4ndreLuis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=4ndreLuis&limit=5&theme=radical&combine_all_yearly_contributions=true)
+⏱️ Estudo diário com **Técnica Pomodoro**  
+➡️ 6 ciclos de **45 min focado + 15 min descanso**, sem falhar até o momento.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=4ndreLuis&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Stack & Habilidades
+
+| Frontend                                                    | Backend                                | Ferramentas          |
+| ----------------------------------------------------------- | -------------------------------------- | -------------------- |
+| React, JavaScript, HTML, CSS<br/>Semântica e Acessibilidade | Node.js _(em formação)_<br/>PostgreSQL | Git, GitHub, VS Code |
+
+---
+
+## 📂 Projetos em Destaque
+
+- 🚧 **[Projeto 1](link)** — Construindo, chegando lá 😄
+- 🚧 **[Projeto 2](link)** — Em desenvolvimento contínuo
+
+> 📌 Em breve: projetos completos com foco em **React**, **boas práticas** e **acessibilidade**
+
+---
+
+## 📊 GitHub em Números
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=4ndreLuis&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🔥 Streak de Contribuições
+
+<p align="center">
+<a href="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true" target="_blank">
+👉 Clique aqui para ver meu streak de contribuições
+</a>
+</p>
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</div>
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/4ndredev/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:4ndredev21@gmail.com)
+
+</div>
