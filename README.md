@@ -1,6 +1,7 @@
 # André Luis Mendes
 
 **Frontend Developer | Acessibilidade (a11y) | HTML Semântico**
+https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical
 
 Sou desenvolvedor Frontend em transição de carreira, focado em **acessibilidade real**, HTML semântico e interfaces funcionais para todos.  
 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
