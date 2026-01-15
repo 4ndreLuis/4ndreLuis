@@ -7,23 +7,29 @@ Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ---
 
-## ♿ Foco
-HTML Semântico • WCAG / ARIA • Mobile First • JavaScript • React
+## ♿ Foco Principal
+HTML Semântico • Acessibilidade (WCAG / ARIA) • Mobile First • JavaScript • React
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=4ndreLuis&show_icons=true&hide=issues,prs&hide_rank=true&theme=radical" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&langs_count=4&theme=radical" />
-</div>
+## 🚀 Stack
+- HTML5, CSS3, JavaScript (ES6+)
+- React, Next.js
+- Node.js (base), PostgreSQL
+- Git, GitHub, VS Code
 
 ---
 
 ## 📂 Projeto
 **♿ [Vryxos Site](https://github.com/4ndreLuis/vryxos-site)**  
-Skip Links • Teclado 100% • Zero divs inúteis • HTML semântico
+Skip Links • Navegação 100% por teclado • Zero divs desnecessárias • HTML semântico
+
+---
+
+## 📈 GitHub
+- Repositórios públicos e ativos
+- Commits consistentes
+- Projetos focados em boas práticas e acessibilidade
 
 ---
 
