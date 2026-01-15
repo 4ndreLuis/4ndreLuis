@@ -1,5 +1,4 @@
 # André Luis Mendes
-https://githubcard.com/4ndreLuis.svg?d=wG0LbgJp
 
 **Frontend Developer | Acessibilidade (a11y) | HTML Semântico**
 
