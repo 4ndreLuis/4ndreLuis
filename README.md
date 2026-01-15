@@ -1,16 +1,15 @@
 # André Luis Mendes
 
 **Frontend Developer | Acessibilidade (a11y) | HTML Semântico**
-https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical
 
-Sou desenvolvedor Frontend em transição de carreira, focado em **acessibilidade real**, HTML semântico e interfaces funcionais para todos.  
+Desenvolvedor Frontend em transição de carreira, com foco em **acessibilidade real**, HTML semântico e interfaces funcionais para todos.  
 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ---
 
-## ♿ Foco Principal
-- HTML5 Semântico & CSS3
+## ♿ Especialidade
 - Acessibilidade (WCAG, ARIA, navegação por teclado)
+- HTML5 Semântico & CSS3
 - Mobile First
 - JavaScript (ES6+)
 - React (em evolução)
@@ -18,36 +17,39 @@ Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
 ---
 
 ## 🚀 Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend (base):** Node.js, PostgreSQL
-- **Ferramentas:** Git, GitHub, VS Code
+**Frontend:** HTML, CSS, JavaScript, React, Next.js  
+**Backend (base):** Node.js, PostgreSQL  
+**Ferramentas:** Git, GitHub, VS Code  
 
 ---
 
-## 📂 Projeto em Destaque
-
+## 📂 Projeto
 ### ♿ [Vryxos Site](https://github.com/4ndreLuis/vryxos-site)
+
 Plataforma focada em **acessibilidade extrema**.
 
-**Destaques**
 - Skip Links
-- Zero `div` desnecessária
 - Navegação 100% por teclado
+- Zero divs desnecessárias
 - HTML semântico de ponta a ponta
-
-**Tech:** HTML5, CSS3, Git
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=4ndreLuis&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&theme=radical" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=4ndreLuis&show_icons=true&hide_rank=true&theme=radical" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&langs_count=6&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=4ndreLuis&theme=radical" />
 </div>
 
 ---
 
 ## 🌐 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/4ndreluis/)
-- ✉️ Email: andre.felipe987@cs.unicid.edu.br
+- ✉️ andre.felipe987@cs.unicid.edu.br
+
+https://github.com/4ndreLuis
