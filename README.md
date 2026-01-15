@@ -48,5 +48,5 @@ Plataforma focada em **acessibilidade extrema**.
 ---
 
 ## 🌐 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/4ndredev/)
-- ✉️ Email: 4ndredev21@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/4ndreluis/)
+- ✉️ Email: andre.felipe987@cs.unicid.edu.br
