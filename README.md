@@ -34,5 +34,6 @@ Skip Links • Navegação 100% por teclado • Zero divs desnecessárias • HT
 ---
 
 ## 🌐 Contato
-[LinkedIn](https://www.linkedin.com/in/4ndreluis/) · andre.felipe987@cs.unicid.edu.br  
+[LinkedIn](https://www.linkedin.com/in/4ndreluis/) · 
+andre.felipe987@cs.unicid.edu.br ·  
 https://github.com/4ndreLuis
