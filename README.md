@@ -46,11 +46,4 @@
 
 <p align="left">**Frontend Developer | Acessibilidade (a11y) | HTML Semântico**<br><br>Desenvolvedor Frontend em transição de carreira, focado em **acessibilidade real**, HTML semântico e interfaces funcionais.  <br>Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.<br><br>---<br><br>## ♿ Foco Principal<br>HTML Semântico • Acessibilidade (WCAG / ARIA) • Mobile First • JavaScript • React<br><br>---<br><br>## 🚀 Stack<br>- HTML5, CSS3, JavaScript (ES6+)<br>- React, Next.js<br>- Node.js (base), PostgreSQL<br>- Git, GitHub, VS Code<br><br>---<br><br>## 📂 Projeto<br>**♿ [Vryxos Site](https://github.com/4ndreLuis/vryxos-site)**  <br>Skip Links • Navegação 100% por teclado • Zero divs desnecessárias • HTML semântico<br><br>---<br><br>## 📈 GitHub<br>- Repositórios públicos e ativos<br>- Commits consistentes<br>- Projetos focados em boas práticas e acessibilidade<br><br>---</p>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ndreLuis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4ndreLuis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
